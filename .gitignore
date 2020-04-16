@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+venv/
+app/.DS_Store
+app/__pycache__
+app.db
+frontend/src/config.js
